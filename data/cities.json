@@ -1,0 +1,136 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "84a8",
+      "cityName": "Algiers",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "notes": "",
+      "date": "2024-04-13T08:59:49.655Z",
+      "position": {
+        "lat": "36.73888412439431",
+        "lng": "3.0267333984375004"
+      }
+    },
+    {
+      "id": "3be5",
+      "cityName": "El Hamma",
+      "country": "Tunisia",
+      "emoji": "🇹🇳",
+      "notes": "",
+      "date": "2024-04-15T12:09:53.434Z",
+      "position": {
+        "lat": "33.78827853625996",
+        "lng": "9.437255859375002"
+      }
+    },
+    {
+      "id": "a871",
+      "cityName": "Saint-Germain-Chassenay",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "notes": "",
+      "date": "2024-06-03T18:04:22.330Z",
+      "position": {
+        "lat": "46.800059446787316",
+        "lng": "3.3837890625000004"
+      }
+    },
+    {
+      "id": "5123",
+      "cityName": "Ilulissat",
+      "country": "Greenland",
+      "emoji": "🇬🇱",
+      "notes": "sss",
+      "date": "2024-07-06T23:02:26.927Z",
+      "position": {
+        "lat": "71.80333746593419",
+        "lng": "-46.05468750000001"
+      }
+    },
+    {
+      "id": "3da6",
+      "cityName": "Larbaa",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "notes": "mmmm",
+      "date": "2024-08-14T00:18:54.614Z",
+      "position": {
+        "lat": "36.52896628309703",
+        "lng": "3.1415772861460804"
+      }
+    },
+    {
+      "id": "b607",
+      "cityName": "Valdepenas de la Sierra",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "notes": "llll",
+      "date": "2024-08-14T00:19:04.525Z",
+      "position": {
+        "lat": "40.88297571992828",
+        "lng": "-3.341294253151271"
+      }
+    },
+    {
+      "id": "2e05",
+      "cityName": "Al Khums",
+      "country": "Libya",
+      "emoji": "🇱🇾",
+      "notes": "i went to it in 2022/12/25 , nice city \n:) \n",
+      "date": "2024-09-27T17:12:05.160Z",
+      "position": {
+        "lat": "32.55152962857931",
+        "lng": "13.614512953917405"
+      }
+    },
+    {
+      "id": "8fb8",
+      "cityName": "Blida",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "notes": "0224*",
+      "date": "2024-09-27T17:13:46.899Z",
+      "position": {
+        "lat": "36.48704605090373",
+        "lng": "2.8447041502673813"
+      }
+    },
+    {
+      "id": "0a5d",
+      "cityName": "Hun",
+      "country": "Libya",
+      "emoji": "🇱🇾",
+      "notes": "Hello ",
+      "date": "2024-11-18T17:28:33.093Z",
+      "position": {
+        "lat": "27.220784351380793",
+        "lng": "17.790189277062424"
+      }
+    }
+  ]
+}
