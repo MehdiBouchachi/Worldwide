@@ -1,13 +1,5 @@
 import { Suspense, lazy } from "react";
-//import { BrowserRouter, Routes, Route } from "react-router-dom";
-//import Products from "./pages/Products";
 import { BrowserRouter, Route, Routes, Navigate } from "react-router-dom";
-/* import Product from "./pages/Product";
-import Pricing from "./pages/Pricing";
-import HomePage from "./pages/Homepage";
-import PageNotFound from "./pages/PageNotFound";
-import Login from "./pages/Login";
-import AppLayout from "./pages/AppLayout"; */
 import CityList from "./components/CityList";
 import CountryList from "./components/CountryList";
 import City from "./components/City";
