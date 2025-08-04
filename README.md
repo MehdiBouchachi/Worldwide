@@ -1,14 +1,54 @@
-# Worldwise Project
-This project is a modern web application built with React and several powerful libraries to provide interactive mapping, dynamic routing, and user-friendly interfaces.
-The application is designed to be scalable and flexible for various use cases.
+# 🌍 Worldwise – Interactive Map-Based Travel App
 
-# Features
-Interactive Maps: Integration with Leaflet and React Leaflet for customizable maps, including markers, tooltips, and dynamic layers.
+##  About
 
-Dynamic Routing: Powered by React Router DOM for seamless navigation and parameterized URLs.
+**Worldwise** is a modern React application that combines interactive maps, dynamic routing, date selection, and mock backend functionality. Designed to demonstrate scalable architecture and modular component design, this project showcases how to integrate multiple libraries in a clean, maintainable way.
 
-Date Selection: User-friendly datepicker with advanced features like date range filtering, enabled via React Datepicker.
+Whether you're building a travel tracker, location dashboard, or data explorer — Worldwise provides a solid foundation to get started.
 
-Mock API with JSON Server: A simulated backend for development, supporting CRUD operations on mock data.
+---
 
-Reusable Components: Modular and reusable components ensure efficient development and maintainability.
+##  Key Features
+
+- 👉 **Interactive Mapping**  
+  Uses **Leaflet** and **React Leaflet** to render customizable maps with markers, popups, and location data.
+
+- 👉 **Dynamic Routing**  
+  Seamless navigation powered by **React Router DOM**, with URL parameters for detail pages and filtered views.
+
+- 👉 **Advanced Date Selection**  
+  Intuitive **React Datepicker** for picking and filtering travel dates or location timestamps.
+
+- 👉 **Mock Backend with JSON Server**  
+  Integrated local API (via `json-server`) for easy data testing with full CRUD support.
+
+- 👉 **Modular Component Design**  
+  Reusable, self-contained components following React best practices for maintainability and scale.
+
+---
+
+## 🛠 Tech Stack
+
+| Tool             | Purpose                              |
+|------------------|--------------------------------------|
+| **React 18**      | Core UI framework                   |
+| **Vite**          | Fast dev server and bundler         |
+| **React Router**  | SPA routing and URL management      |
+| **React Leaflet** | Map rendering and interactivity     |
+| **React Datepicker** | Date selection UI               |
+| **JSON Server**   | Mock API backend for dev            |
+
+---
+
+##  Local Development
+
+```bash
+# Install dependencies
+npm install
+
+# Run frontend
+npm run dev
+
+# Run JSON server (mock backend)
+npm run server
+
