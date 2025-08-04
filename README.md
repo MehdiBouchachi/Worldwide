@@ -4,7 +4,7 @@
 
 **Worldwise** is a modern React application that combines interactive maps, dynamic routing, date selection, and mock backend functionality. Designed to demonstrate scalable architecture and modular component design, this project showcases how to integrate multiple libraries in a clean, maintainable way.
 
-Whether you're building a travel tracker, location dashboard, or data explorer — Worldwise provides a solid foundation to get started.
+Whether you're building a travel tracker, location dashboard, or data explorer Worldwise provides a solid foundation to get started.
 
 ---
 
