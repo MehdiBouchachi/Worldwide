@@ -1,6 +1,9 @@
 import { createContext, useEffect, useReducer } from "react";
 
-const BASE_URL = "http://localhost:9000";
+const BASE_URL =
+  import.meta.env.VITE_API_URL ||
+  "https://worldwise-api.onrender.com" ||
+  "http://localhost:9000";
 
 const CitiesContext = createContext();
 const initailState = {
